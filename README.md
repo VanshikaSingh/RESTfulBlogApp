@@ -6,14 +6,6 @@ RESTful routing blog app from "The Web Developer Bootcamp" by Colt Steele: https
 
 Blogging web app created to practice RESTful routing.
 
-# RESTful Routes:
-# RESTful-blog-app
-
-RESTful routing blog app from "The Web Developer Bootcamp" by Colt Steele: https://www.udemy.com/the-web-developer-bootcamp/
-
-## Summary 
-
-Blogging web app created to practice RESTful routing.
 
 ## RESTful Routes:
 
