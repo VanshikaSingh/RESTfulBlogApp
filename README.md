@@ -73,3 +73,8 @@ Blogging web app created to practice RESTful routing.
 * NodeJS
 * ExpressJS
 * MongoDB
+
+# Final Product
+
+ <p align="center">
+<img src= "https://imgur.com/GSvGqzl"/>
