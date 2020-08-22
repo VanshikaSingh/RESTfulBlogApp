@@ -77,4 +77,4 @@ Blogging web app created to practice RESTful routing.
 # Final Product
 
  <p align="center">
-<img src= "https://imgur.com/GSvGqzl"/>
+    <img src="https://imgur.com/GSvGqzl"/>
