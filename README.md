@@ -55,7 +55,7 @@ Blogging web app created to practice RESTful routing.
 * Add Update Form
 * Add Method-Override
 
-### DESTROYYYYYY
+### DESTROY
 * Add Destroy Route
 * Add Edit and Destroy Links
 
@@ -77,8 +77,8 @@ Blogging web app created to practice RESTful routing.
 # Final Product
 
  <p align="center">
-    <a href="https://imgur.com/GSvGqzl"><img src="https://i.imgur.com/GSvGqzl.png" title="source: imgur.com"/></a>
+    <a href="https://imgur.com/GSvGqzl"><img src="https://i.imgur.com/GSvGqzl.png" /></a>
  <p align="center">
-  <a href="https://imgur.com/P8i7TVI"><img src="https://i.imgur.com/P8i7TVI.png" title="source: imgur.com" /></a>
+  <a href="https://imgur.com/P8i7TVI"><img src="https://i.imgur.com/P8i7TVI.png"  /></a>
   <p align="center">
-  <a href="https://imgur.com/gkR4E6O"><img src="https://i.imgur.com/gkR4E6O.png" title="source: imgur.com" /></a>
+  <a href="https://imgur.com/gkR4E6O"><img src="https://i.imgur.com/gkR4E6O.png"  /></a>
